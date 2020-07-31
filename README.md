@@ -14,8 +14,8 @@
 
 
 
-> JavaWeb教程以及书城项目资料（也可以到他们的官网领取）
->
+**JavaWeb教程以及书城项目资料（也可以到他们的官网领取）**
+
 > 链接：https://pan.baidu.com/s/1rOQz6UUxlkd_-cfvzy6bGg 
 > 提取码：4df5
 
